@@ -1,0 +1,1 @@
+"%~dp0ObjectParamsCopier.exe" dump "%1" "%~dp0last_config.cfg" > "%~dp0log.txt"
